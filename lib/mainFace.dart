@@ -68,18 +68,12 @@ class _MainFaceState extends State<MainFace> {
   // Colors------------------------------------------------------------------------------------------------------------------------
 
   // Extras
-  static const orange = Color(0xFF44A6FE);
-  static const blue = Color(0xFF44A6FE);
-  static const yellow = Color(0xFF44A6FE);
-  static const pink = Color(0xFF44A6FE);
-  static const brightBlue = Color(0xFF44A6FE);
-  static const green = Color(0xFF44A6FE);
-  // static const orange = Color(0xFF00FF00);
-  // static const blue = Color(0xFF00FF00);
-  // static const yellow = Color(0xFF00FF00);
-  // static const pink = Color(0xFF00FF00);
-  // static const brightBlue = Color.fromARGB(255, 0, 255, 0);
-  // static const green = Color(0xFF00FF00);
+  static const orange = Color(0xFF00FF00);
+  static const blue = Color(0xFF00FF00);
+  static const yellow = Color(0xFF00FF00);
+  static const pink = Color(0xFF00FF00);
+  static const brightBlue = Color.fromARGB(255, 0, 255, 0);
+  static const green = Color(0xFF00FF00);
   // static const orange = Color(0xFFFF7276);
   // static const blue = Color(0xFF44A6FE);
   // static const yellow = Color(0xFFFDC47D);
